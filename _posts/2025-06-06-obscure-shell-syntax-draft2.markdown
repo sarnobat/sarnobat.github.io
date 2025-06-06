@@ -1,3 +1,8 @@
+layout: post
+title: "Obscure Shell Syntax"
+date: 2025-06-06
+categories: shell
+
 # Obscure Shell Syntax
 
 (this layout might be better: https://github.com/dylanaraps/pure-sh-bible?tab=readme-ov-file#default-value )
