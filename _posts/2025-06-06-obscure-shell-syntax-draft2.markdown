@@ -23,20 +23,22 @@ categories: shell
 * `!*`
 * `!#`
 
-### !!string_operation
+### !!<string operation>
 
 * `!!`
 * `!!:p`
 * `!!:s/foo/bar/`
 * `!!:gs/foo/bar/`
 
-### !command_prefix
+### !\<command prefix\>
 
 * `!ls`
 * `!ls:3`
 
-## 
-###
+## $
+
+### $VAR
+
 * `$PWD`
 * `${PWD}`
 * `${PWD:gs/Users/home/}`
@@ -44,7 +46,7 @@ categories: shell
 * `"${PWD:/$HOME/~/}"`
 * `${PWD:3:5}`
 
-###
+### $VAR with default
 
 * `${FILE:-/tmp/in.txt}`
 * `${FILE:=/tmp/in.txt}`
