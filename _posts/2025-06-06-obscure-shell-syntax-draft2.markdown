@@ -5,8 +5,8 @@ categories: shell
 
 # Obscure Shell Syntax
 
-(this layout might be better: https://github.com/dylanaraps/pure-sh-bible?tab=readme-ov-file#default-value )
-2025-03-15: improve on this: https://gist.github.com/ClementNerma/1dd94cb0f1884b9c20d1ba0037bdcde2
+* (this layout might be better: https://github.com/dylanaraps/pure-sh-bible?tab=readme-ov-file#default-value )
+* 2025-03-15: improve on this: https://gist.github.com/ClementNerma/1dd94cb0f1884b9c20d1ba0037bdcde2
 
 ### !number
 
@@ -65,6 +65,7 @@ categories: shell
 * `$_`
 
 ###
+
 * `$?`
 * `$$`
 * `$!`
