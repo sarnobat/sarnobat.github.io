@@ -8,19 +8,22 @@ categories: shell
 (this layout might be better: https://github.com/dylanaraps/pure-sh-bible?tab=readme-ov-file#default-value )
 2025-03-15: improve on this: https://gist.github.com/ClementNerma/1dd94cb0f1884b9c20d1ba0037bdcde2
 
+### !number
+
 * `!:0`
 * `!:1`
 * `!:1-3`
 * `!:1-`
 * `!#1`
 *  
-###
+### !symbol
 * `!$`
 * `!^`
 * `!*`
 * `!#`
 
-###
+### !!operation
+
 * `!!`
 * `!!:p`
 * `!!:s/foo/bar/`
