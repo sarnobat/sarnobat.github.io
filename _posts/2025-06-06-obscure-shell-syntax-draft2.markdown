@@ -23,14 +23,14 @@ categories: shell
 * `!*`
 * `!#`
 
-### !!operation
+### !!string_operation
 
 * `!!`
 * `!!:p`
 * `!!:s/foo/bar/`
 * `!!:gs/foo/bar/`
 
-### !\<command prefix\>
+### !command_prefix
 
 * `!ls`
 * `!ls:3`
