@@ -17,6 +17,7 @@ categories: shell
 * `!#1`
 
 ### !symbol
+
 * `!$`
 * `!^`
 * `!*`
@@ -29,7 +30,8 @@ categories: shell
 * `!!:s/foo/bar/`
 * `!!:gs/foo/bar/`
 
-###
+### !<prefix>
+
 * `!ls`
 * `!ls:3`
 
