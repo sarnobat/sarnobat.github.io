@@ -30,7 +30,7 @@ categories: shell
 * `!!:s/foo/bar/`
 * `!!:gs/foo/bar/`
 
-### !<prefix>
+### !prefix
 
 * `!ls`
 * `!ls:3`
